@@ -2,7 +2,7 @@ from playwright.sync_api import Page, expect
 
 
 BASE_URL = "https://www.saucedemo.com/"
-INVENTORY_URL = "https://www.saucedemo.com/inventory.html"
+INVENTORY_URL = "https://www.saucedemo.com/incorrect.html"
 CART_URL = "https://www.saucedemo.com/cart.html"
 
 
